@@ -1,8 +1,4 @@
 
-usha yenni
-2:22 PM (0 minutes ago)
-to me
-
 import java.io.*;
 import java.util.Scanner;
 public class Calculator
